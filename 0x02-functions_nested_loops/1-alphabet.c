@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
- * Description: function to prit letters of the alphabet in small letters
- * Return: Aways 0 (Success)
+ * print_alphabet - prints the alphabet in lowercase
+ *
+ * Return: void
  */
 void print_alphabet(void)
 {
